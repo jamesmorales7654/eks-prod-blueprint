@@ -1,2 +1,2 @@
 # eks-prod-blueprint
-Production-ready EKS cluster blueprint with Terraform, Helm, ArgoCD, and observability tools.
+Production-ready EKS cluster with Terraform — modular VPC, IAM, and remote state.
