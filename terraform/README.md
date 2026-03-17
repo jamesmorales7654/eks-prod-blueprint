@@ -1,4 +1,4 @@
-# eks-prod-blueprint
+# EKS-Prod-Blueprint
 
 > **Production-ready Amazon EKS infrastructure using modular Terraform**
 
@@ -65,7 +65,7 @@ $ terraform plan -var-file="prod.tfvars"
 $ terraform apply -var-file="prod.tfvars"
 ```
 
-> 🔥 **Lab Use Only**: This project was validated using a sandbox AWS account and is not intended for deployment in production without security, cost, and scalability review.
+> 🔥 **Lab Use Only**: This project was validated using an AWS Free Tier account and is not intended for deployment in production without security, cost, and scalability review.
 
 ---
 
@@ -90,9 +90,8 @@ $ terraform apply -var-file="prod.tfvars"
 
 ## 🧠 Credits
 
-Created by **\[Your Name]** — Cloud Engineer with 15+ years of experience designing scalable infrastructure and leading secure cloud transformations.
+Created by **James Morales** — Security Platform Engineer with 15+ years of experience designing scalable infrastructure and leading secure cloud transformations.
 
-> "A resume tells them you're skilled. A GitHub shows them you're dangerous." 💻🔥
 
 ---
 
